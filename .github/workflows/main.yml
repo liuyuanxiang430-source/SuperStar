@@ -23,4 +23,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 18388463380 -p  voddu2-gyts -l 255804721 #课程id，健康教育
+        run: python main.py -u 18388463380 -p  voddu2-gyts -l 255475737 #课程id，国家安全教育
