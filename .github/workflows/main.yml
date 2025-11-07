@@ -23,4 +23,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 18589973917 -p  163425Qw -l 255475734 #课程id，心理健康发展
+        run: python main.py -u 2025360351 -p dcy123456789 -l 255804719 #课程id，心理健康发展
